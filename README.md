@@ -15,7 +15,7 @@ I bring a creative and technical ear into the world of code—building things th
 📚 Currently Studying 
 
 - TypeScript
-- React
+- Next.js / React 
 
 🎶 About Me
 
